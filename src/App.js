@@ -7,7 +7,7 @@ import Card from "./Card";
 
 function App() {
   return (
-      <div>
+      <div className="App">
         <Navbar />
           <h1>CS 230L</h1>
           <h2>Section - 003</h2>
